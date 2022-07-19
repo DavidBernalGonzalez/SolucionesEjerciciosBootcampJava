@@ -11,7 +11,7 @@
 👉 **Solución más compleja II: ``^abc.{0,}``** → Cuando queremos que el match empiece explicitamente por abc y posteriormente utilizando el caracter . (JOKER/comodín) tenga 0 o más caracteres. Esta solución es equivalente a la anterior solución.  
 
 ## 📚 **Exercice 1.½ -  Matching Characters:** 📚
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer1.2/Enunciado%2012.png?raw=true  "Enunciado ejercicio 1.½")
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado%201.2.png?raw=true  "Enunciado ejercicio 1.½")
 
 👉 **Solución sencilla:	`` 123 ``** → Cuando queremos que el match sea explicitamente 123  
 
@@ -23,7 +23,7 @@
 
 ## 📚 **Exercise 2: Matching With Wildcards** 📚
 
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer2/Enunciado2.png?raw=true "Enunciado 2")  
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado2.png?raw=true "Enunciado 2")  
 
 👉 **Solución sencilla:** ``...\.``	→ Cuando queremos seleccionar tres caracteres (los que sean) utilizando el comodín/Joker y después queremos que haya un punto explicitamente .
 
@@ -39,7 +39,7 @@
 
 ## 📚 **Exercise 3: Matching Characters** 📚
 
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer3/Enunciado%203.png?raw=true "Enunciado 2")
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado3.png?raw=true "Enunciado 3")
 
 👉 **Solución sencilla:** ``^[cmf]an$``  
 
@@ -52,5 +52,12 @@
 👉 **Solución más completa IV:** ``^[^drp]an$`` → Cuando queremos que no empiece por drp y que la línea acabe por an  
 
 ## 📚 **Exercise 4: Excluding Characters** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado4.png?raw=true "Enunciado 4")
+
+👉 **Solución sencilla:** ``[hg]og`` → todo lo que tenga una h (minuscula) o una g (minuscula) seguido de una o y una g  
+
+👉 **Solución más complejaI:** ``[^b]og`` → todo lo que tenga una b (minuscula) como primer caracter y vaya seguido de una o y una g  
+
+👉 **Solución más compleja II:** ``^[^b]og$`` → todo lo que no empiece con una b (minuscula) como primer caracter y acabe en og  
 
 
