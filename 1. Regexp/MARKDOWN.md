@@ -51,3 +51,6 @@
 
 👉 **Solución más completa IV:** ``^[^drp]an$`` → Cuando queremos que no empiece por drp y que la línea acabe por an  
 
+## 📚 **Exercise 4: Excluding Characters** 📚
+
+
