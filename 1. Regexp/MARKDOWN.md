@@ -61,7 +61,7 @@
 👉 **Solución más compleja II:** ``^[^b]og$`` → todo lo que no empiece con una b (minuscula) como primer caracter y acabe en og  
 
 ## 📚 **Exercise 5: Matching Character Ranges** 📚
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado5.png?raw=true "Enunciado 4")  
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado5.png?raw=true "Enunciado 5")  
 
 👉 **Solución sencilla:** ``[A-C][anobpc]+``  
 
@@ -69,5 +69,8 @@
 
 👉 **Solución más compleja II:** ``^[A-Z]..$``  
 
-👉 **Solución más compleja III:** ``^[A-Z][n-p][a-c]$``  
+👉 **Solución más compleja III:** ``^[A-Z][n-p][a-c]$`` 
+
+## 📚 **Exercise 6: Matching Repeated Characters** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado6.png?raw=true "Enunciado 6") 
 
