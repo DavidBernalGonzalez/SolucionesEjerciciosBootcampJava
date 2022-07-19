@@ -1,7 +1,7 @@
 # Soluciones de ejercicios de expresiones regulares (REGEXP)
-## 1. Ejercicios de https://regexone.com/  
+## 📖Ejercicios de https://regexone.com/📖 
 
-📚 **1.1 -  Matching Characters:** 📚
+### 📚 **1.1 -  Matching Characters:** 📚
 
 👉 **Solución simple/sencilla: `` regex abc ``** → Cuando queremos que el match sea explicitamente abc  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer1/1.1.png?raw=true "Cuando queremos que el match sea explicitamente abc")
