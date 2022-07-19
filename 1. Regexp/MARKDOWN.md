@@ -65,7 +65,7 @@
 
 👉 **Solución sencilla:** ``[A-C][anobpc]+``  
 
-👉 **Solución más complejaI:** ``[A-C][n-p][a-c]``  
+👉 **Solución más compleja I:** ``[A-C][n-p][a-c]``  
 
 👉 **Solución más compleja II:** ``^[A-Z]..$``  
 
