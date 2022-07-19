@@ -5,7 +5,9 @@
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer1/Enunciado1.png?raw=true  "Enunciado ejercicio 1")
 
 👉 **Solución simple/sencilla: ``abc ``** → Cuando queremos que el match sea explicitamente abc  
+
 👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que el match empiece explicitamente por abc y, posteriormente contenga 0 o más caracteres utilizando la estrella de kleene.  
+
 👉 **Solución más compleja II: ``^abc.{0,}``** → Cuando queremos que el match empiece explicitamente por abc y posteriormente utilizando el caracter . (JOKER/comodín) tenga 0 o más caracteres. Esta solución es equivalente a la anterior solución.  
 
 ## 📚 **Exercice 1.½ -  Matching Characters:** 📚
@@ -39,8 +41,13 @@
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer3/Enunciado%203.png?raw=true "Enunciado 2")
 
-👉 **Solución sencilla:** ``^[cmf]an$``
-👉 **Solución más compleja I:**	``(can|man|fan)`` 
-👉 **Solución más compleja II:** ``(c|m|f)an``		equivalente a la solución anterior
-👉 **Solución más compleja III:** ``^(c|m|f)an$``
-👉 **Solución más completa IV:** ``^[^drp]an$`` → Cuando queremos que no empiece por drp y que la línea acabe por an
+👉 **Solución sencilla:** ``^[cmf]an$``  
+
+👉 **Solución más compleja I:**	``(can|man|fan)``  
+
+👉 **Solución más compleja II:** ``(c|m|f)an`` → equivalente a la solución anterior  
+
+👉 **Solución más compleja III:** ``^(c|m|f)an$``  
+
+👉 **Solución más completa IV:** ``^[^drp]an$`` → Cuando queremos que no empiece por drp y que la línea acabe por an  
+
