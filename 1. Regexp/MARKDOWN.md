@@ -54,10 +54,16 @@
 ## 📚 **Exercise 4: Excluding Characters** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado4.png?raw=true "Enunciado 4")
 
-👉 **Solución sencilla:** ``[hg]og`` → todo lo que tenga una h (minuscula) o una g (minuscula) seguido de una o y una g  
+👉 **Solución sencilla:** ``^[hg]og`` → todo lo que tenga una h (minuscula) o una g (minuscula) seguido de una o y una g  
 
 👉 **Solución más complejaI:** ``[^b]og`` → todo lo que tenga una b (minuscula) como primer caracter y vaya seguido de una o y una g  
 
 👉 **Solución más compleja II:** ``^[^b]og$`` → todo lo que no empiece con una b (minuscula) como primer caracter y acabe en og  
 
+## 📚 **Exercise 5: Matching Character Ranges** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado5.png?raw=true "Enunciado 4")  
 
+👉 **Solución sencilla:** ``[A-C][anobpc]+``
+👉 **Solución más complejaI:** ``[A-C][n-p][a-c]``				
+👉 **Solución más compleja II:** ``^[A-Z]..$``
+👉 **Solución más compleja III:** ``^[A-Z][n-p][a-c]$``
