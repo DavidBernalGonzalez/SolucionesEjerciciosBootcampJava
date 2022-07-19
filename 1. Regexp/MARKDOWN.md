@@ -34,6 +34,8 @@
 
 ## 📚 **Exercise 2: Matching With Wildcards:** 📚
 
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer2/Enunciado2.png?raw=true "Enunciado 2")  
+
 👉 **Solución sencilla:** ``...\.``	→			Cuando queremos seleccionar tres caracteres (los que sean) utilizando el comodín/Joker y después queremos que haya un punto explicitamente .
 
 👉 **Solución sencilla II:** ``.{3}\.``	→			Cuando queremos seleccionar tres caracteres (los que sean) utilizando el comodín/Joker junto al {3} y después queremos que haya un punto explicitamente . 
