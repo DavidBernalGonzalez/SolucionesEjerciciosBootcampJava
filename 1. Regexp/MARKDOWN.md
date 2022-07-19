@@ -16,14 +16,13 @@
 - **Solución sencilla:	`` 123 ``** → Cuando queremos que el match sea explicitamente 123 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer1/1.3.png?raw=true "Cuando queremos que el match sea explicitamente 123")
 
-- **Solución más compleja I: `` \d+``**	 → Cuando queremos que coja todos los dígitos independientemente de la cantidad
+- **Solución más compleja I: `` \d+``**	 → Cuando queremos que coja todos los dígitos independientemente de la cantidad  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer1.2/1.2.png?raw=true "Cuando queremos que el match sea explicitamente 123")
   
-- **Solución más compleja II: ``\d{3}	``** → Cuando queremos que coja solamente los grupos de 3 dígitos
+- **Solución más compleja II: ``\d{3}	``** → Cuando queremos que coja solamente los grupos de 3 dígitos  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer1.2/1.3.png?raw=true "Cuando queremos que el match sea explicitamente 123")
 
 - **Solución más compleja III: ``\d{3,} ``** → Cuando queremos que coja solamente los grupos de 3 dígitos o más dígitos (equivalente a solución II)  
-  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/ejer1.2/1.4.png?raw=true "Cuando queremos que el match sea explicitamente 123")
 
-<mark> **Exercise 2: Matching With Wildcards:** </mark>
+<mark style="background-color:yellow"> **Exercise 2: Matching With Wildcards:** </mark>
