@@ -63,7 +63,11 @@
 ## 📚 **Exercise 5: Matching Character Ranges** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado5.png?raw=true "Enunciado 4")  
 
-👉 **Solución sencilla:** ``[A-C][anobpc]+``
-👉 **Solución más complejaI:** ``[A-C][n-p][a-c]``				
-👉 **Solución más compleja II:** ``^[A-Z]..$``
-👉 **Solución más compleja III:** ``^[A-Z][n-p][a-c]$``
+👉 **Solución sencilla:** ``[A-C][anobpc]+``  
+
+👉 **Solución más complejaI:** ``[A-C][n-p][a-c]``  
+
+👉 **Solución más compleja II:** ``^[A-Z]..$``  
+
+👉 **Solución más compleja III:** ``^[A-Z][n-p][a-c]$``  
+
