@@ -6,7 +6,8 @@
 
 👉 **Solución simple/sencilla: ``abc ``** → Cuando queremos que el match sea explícitamente ``abc``  
 
-👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que la línea empiece explícitamente por ``abc``. Posteriormente, utilizando el ``.`` (JOKER/comodín) combinado con el cuantificador ``*`` hacemos que contenga 0 o más caracteres. 
+👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que la línea empiece explícitamente por ``abc``. Posteriormente, utilizando el ``.`` (JOKER/comodín) el cual nos permitirá tener un carácter sin importar el que sea. Finalmente, seguidamente del ``,``, añadimos el cuantificador ``*`` para hacer que contenga 0 o más caracteres. 
+
 
 > 🚨Recordad que el símbolo que en este caso utilizamos como quantifier ``*`` es el conocido como la estrella de Kleene (que como ya dijimos durante el curso homenajea a uno de los padres de las expresiones regulares).🚨
 
