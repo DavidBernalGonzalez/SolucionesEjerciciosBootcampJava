@@ -6,9 +6,11 @@
 
 👉 **Solución simple/sencilla: ``abc ``** → Cuando queremos que el match sea explicitamente abc  
 
-👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que el match empiece explicitamente por abc y, posteriormente contenga 0 o más caracteres utilizando la estrella de kleene.  
+👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que la línea empiece explicitamente por abc y que posteriormente contenga 0 o más caracteres utilizando la estrella de Kleene (que homenajea a uno de los padres de las expresiones regulares).  
 
-👉 **Solución más compleja II: ``^abc.{0,}``** → Cuando queremos que el match empiece explicitamente por abc y posteriormente utilizando el caracter . (JOKER/comodín) tenga 0 o más caracteres. Esta solución es equivalente a la anterior solución.  
+👉 **Solución más compleja II: ``^abc.{0,}``** → Cuando queremos que la línea empiece explicitamente por abc y que posteriormente utilizando el caracter . (JOKER/comodín) tenga 0 o más caracteres. Esta solución es equivalente a la anterior solución. 
+
+👉 **Solución más compleja II: ``^abc(.?)+``** → Cuando queremos que empiece (^) por abc y que pueda tener o no un grupo opcional con 1 o más caracteres
 
 ## 📚 **Exercice 1.½ -  Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado%201.2.png?raw=true  "Enunciado ejercicio 1.½")
