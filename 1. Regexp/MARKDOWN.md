@@ -13,12 +13,12 @@
 👉 **Solución más compleja II: ``^abc.{0,}``** → Cuando queremos que la línea empiece explícitamente por ``abc``. Posteriormente, utilizando el ``{0,}`` hacemos que pueda venir cualquier carácter  0 o más veces. 
 > 🚨Esta solución es muy similar y por tanto equivalente a la solución "más compleja" I que acabamos de ver. 🚨
 
-👉 **Solución más compleja II: ``^abc(.?)+``** → Cuando queremos que la línea empiece explícitamente por abc. Posteriormente, hemos realizado un grupo mediante a los ``()``. En el interior de dicho grupo, hemos añadido un ``.`` (JOKER/comodín) junto a un ``?`` el cual hará que el carácter sea opcional. Finalmente, añadimos un + para que el grupo anterior se pueda repetir 1 o más veces
+👉 **Solución más compleja III: ``^abc(.?)+``** → Cuando queremos que la línea empiece explícitamente por abc. Posteriormente, hemos realizado un grupo mediante a los ``()``. En el interior de dicho grupo, hemos añadido un ``.`` (JOKER/comodín) junto a un ``?`` el cual hará que el carácter sea opcional. Finalmente, añadimos un + para que el grupo anterior se pueda repetir 1 o más veces
 
 ## 📚 **Exercice 1.½ -  Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado%201.2.png?raw=true  "Enunciado ejercicio 1.½")
 
-👉 **Solución sencilla:	`` 123 ``** → Cuando queremos que el match sea explicitamente 123  
+👉 **Solución sencilla:	`` 123 ``** → Cuando queremos que el match realizado sea explícitamente ``123``  
 
 👉 **Solución más compleja I: `` \d+``**	 → Cuando queremos que coja todos los dígitos independientemente de la cantidad  
   
