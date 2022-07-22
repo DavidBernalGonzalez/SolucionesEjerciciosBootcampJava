@@ -4,13 +4,16 @@
 ## 📚 **Exercice 1: Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado1.png?raw=true  "Enunciado ejercicio 1")
 
-👉 **Solución simple/sencilla: ``abc ``** → Cuando queremos que el match sea explicitamente abc  
+👉 **Solución simple/sencilla: ``abc ``** → Cuando queremos que el match sea explícitamente ``abc``  
 
-👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que la línea empiece explicitamente por abc y que posteriormente contenga 0 o más caracteres utilizando la estrella de Kleene (que homenajea a uno de los padres de las expresiones regulares).  
+👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que la línea empiece explícitamente por ``abc``. Posteriormente, utilizando el ``.`` (JOKER/comodín) combinado con el cuantificador ``*`` hacemos que contenga 0 o más caracteres. 
 
-👉 **Solución más compleja II: ``^abc.{0,}``** → Cuando queremos que la línea empiece explicitamente por abc y que posteriormente utilizando el caracter . (JOKER/comodín) tenga 0 o más caracteres. Esta solución es equivalente a la anterior solución. 
+> 🚨Recordad que el símbolo que en este caso utilizamos como quantifier ``*`` es el conocido como la estrella de Kleene (que como ya dijimos durante el curso homenajea a uno de los padres de las expresiones regulares).🚨
 
-👉 **Solución más compleja II: ``^abc(.?)+``** → Cuando queremos que empiece (^) por abc y que pueda tener o no un grupo opcional con 1 o más caracteres
+👉 **Solución más compleja II: ``^abc.{0,}``** → Cuando queremos que la línea empiece explícitamente por ``abc``. Posteriormente, utilizando el ``{0,}`` hacemos que pueda venir cualquier carácter  0 o más veces. 
+> 🚨Esta solución es muy similar y por tanto equivalente a la solución "más compleja" I que acabamos de ver. 🚨
+
+👉 **Solución más compleja II: ``^abc(.?)+``** → Cuando queremos que la línea empiece explícitamente por abc. Posteriormente, hemos realizado un grupo mediante a los ``()``. En el interior de dicho grupo, hemos añadido un ``.`` (JOKER/comodín) junto a un ``?`` el cual hará que el carácter sea opcional. Finalmente, añadimos un + para que el grupo anterior se pueda repetir 1 o más veces
 
 ## 📚 **Exercice 1.½ -  Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado%201.2.png?raw=true  "Enunciado ejercicio 1.½")
