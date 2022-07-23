@@ -86,5 +86,15 @@
 
 
 ## 📚 **Exercise 7: Matching Repeated Characters** 📚
+![image](https://user-images.githubusercontent.com/32896437/180620613-e353fa30-f6bc-491a-bb04-21beee7d6622.png)
 
+👉 **Solución sencilla:**	``a{2,}b{1,}c{1,}``  
+
+👉 **Solución más complejaI:** ``a{2,4}b{0,4}c{1,2}``	 
+
+👉 **Solución más compleja II:** ``a+b+c+``  
+
+👉 **Solución más compleja III:**	``a+b*c+``  
+
+👉 **Solución más compleja III:** ``(aa)+(b+)?c+``  
 
