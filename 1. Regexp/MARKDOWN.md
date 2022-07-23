@@ -23,9 +23,7 @@
 
 👉 **Solución más compleja III:** ``\d{3,}``
 
-👉 **Solución más compleja III:** ``\d{3,}``
-
-👉 **Solución más compleja IV:** ``[^\D]+``
+👉 **Solución más compleja III:** ``[^\D]+``
 
 ## 📚 **Exercise 2: Matching With Wildcards** 📚
 
