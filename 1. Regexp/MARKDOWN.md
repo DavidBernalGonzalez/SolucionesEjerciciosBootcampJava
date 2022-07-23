@@ -36,9 +36,9 @@ Finalmente, antes del ``\D`` pero contenido entre los ``[]`` vamos a añadir un 
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado2.png?raw=true "Enunciado 2")  
 
-👉 **Solución sencilla:** ``...\.``	→ Cuando queremos hacer match sobre tres caracteres (los que sean) utilizando el comodín/joker tres veces ``..``. Y, posteriormente, queremos que haya un punto explícitamente ``.``
+👉 **Solución sencilla:** ``^...\.$``	→  Cuando queremos hacer match sobre un texto que empiece ``^`` con tres caracteres sin importar los que sean una manera de hacer es utilizar el comodín/joker tres veces ``...``. Posteriormente, queremos que haya un punto explícitamente. Por lo que escribimos un ``\.`` para hacer referencia a dicho carácter en concreto. Finalmente, seguido del ``\.`` escribimos un ``$`` para indicar que queremos que este sea el fin del texto.
 
-👉 **Solución sencilla II:** ``.{3}\.``	→ Cuando queremos seleccionar tres caracteres (los que sean) utilizando el comodín/joker ``.``. Y, posteriormente, añadimos un ``\.`` ya que en esta ocasiones no queremos utilizar el comodín/joker sino explícitamente un punto.
+👉 **Solución sencilla II:** ``^.{3}\.$``	→ Cuando queremos hacer match sobre un texto que empiece ``^`` con un carácter sin importar el que sea utilizamos el comodín/joker. Y, posteriormente, añadimos un ``{3}`` para que el comodín se repita 3 veces en concreto. Finalmente, añadimos un ``\.`` ya que en esta ocasiones no queremos utilizar el comodín/joker sino explícitamente un punto. Finalmente, seguido del ``\.`` escribimos un ``$`` para indicar que queremos que este sea el fin del texto.
 
 👉 **Solución más compleja I:** ``(cat\.|896.|\?\=\+\.)`` → Cuando queremos que literalmente cat. 896. o ?=+. podemos hacerlo mediante a grupos
 
