@@ -56,7 +56,7 @@
 ## 📚 **Exercise 4: Excluding Characters** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado4.png?raw=true "Enunciado 4")
 
-👉 **Solución sencilla:** ``^[hg]og`` 
+👉 **Solución sencilla:** ``^[hd]og`` 
 
 👉 **Solución más complejaI:** ``[^b]og``  
 
