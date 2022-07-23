@@ -90,7 +90,7 @@
 
 👉 **Solución sencilla:**	``a{2,}b{1,}c{1,}``  
 
-👉 **Solución más complejaI:** ``a{2,4}b{0,4}c{1,2}``	 
+👉 **Solución más compleja I:** ``a{2,4}b{0,4}c{1,2}``	 
 
 👉 **Solución más compleja II:** ``a+b+c+``  
 
