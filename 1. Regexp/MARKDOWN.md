@@ -99,6 +99,7 @@
 👉 **Solución más compleja IV:** ``(aa)+(b+)?c+``
 
 ## 📚 **Exercise 8: Matching Repeated Characters** 📚
+![image]([https://user-images.githubusercontent.com/32896437/180620613-e353fa30-f6bc-491a-bb04-21beee7d6622.png](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado8.png))  
 
 👉 **Solución sencilla:** ``^\d+\sfiles?\sfound\?``  
 
