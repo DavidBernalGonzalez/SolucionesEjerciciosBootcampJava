@@ -96,5 +96,17 @@
 
 👉 **Solución más compleja III:**	``a+b*c+``  
 
-👉 **Solución más compleja III:** ``(aa)+(b+)?c+``  
+👉 **Solución más compleja IV:** ``(aa)+(b+)?c+``
+
+## 📚 **Exercise 8: Matching Repeated Characters** 📚
+
+👉 **Solución sencilla:** ``^\d+\sfiles?\sfound\?``  
+
+👉 **Solución más compleja I:** ``^\d+\s\w+\s\w+\?$``  
+
+👉 **Solución más compleja II:** ``^\d+\s\w{4,5}\s\w{5}\?$``  
+
+👉 **Solución más compleja III:** ``^\d+\s[^\W]{4,5}\s[^\W]{5}\?$``  
+
+
 
