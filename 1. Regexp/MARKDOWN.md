@@ -42,7 +42,8 @@ Finalmente, antes del ``\D`` pero contenido entre los ``[]`` vamos a añadir un 
 
 👉 **Solución más compleja I:** ``^(cat|896|\?\=\+)\.$`` → Cuando queremos hacer match sobre una línea que contenga un texto que empiece ``^`` explícitamente sobre uno de los siguientes textos: ``cat`` o ``896`` o ``?=+``. Para seleccionar los tres hacemos un grupo ``()`` y separamos dichos valores por un ``|``. En caso del último bloque como son caracteres que nuevamente tienen una cierta funcionalidad dentro del regexp, cuando queremos utilizarlos deben de ir definidos junto a un ``\`` quedando dicho bloque de la siguiente manera ``\?\=\?``. Finalmente, queremos que en los 3 casos, el texto acabe en un . por lo que volver a utilizar el ``\`` seguido del ``.``. Y, añadimos un ``$`` para indicar que queremos que este sea el final del texto y de la línea.
 
-👉 **Solución más completa II:** ``.*\.$`` → Cuando queremos que venga lo que sea (si es que hay algo) pero que acabe en un .
+👉 **Solución más completa II:** ``.*\.$`` → Cuando queremos hacer match sobre una línea que contenga un texto sin importar el que sea podemos utilizar el comodín/joker ``.`` junto al quantifier ``*``. Con ello, hacemos que venga 0 o más veces un carácter sin importar el que sea. Finalmente, seguido de lo anterior, escribimos un ``\.`` para seleccionar un carácter punto en específico. Posteriormente, añadimos un ``$`` seguido de este ``\.`` para indicar que queremos que este sea el fin del texto y de la línea.   
+>🚨 Esta solución es la menos específica de todas las que hemos visto 🚨  
 
 👉 **Solución más completa III:** ``(\w+|\W+)\.`` → Cuando queremos que venga una palabra o bien caracteres especiales (sin importar la canatidad pero tienes que haber) y después un .	
 
