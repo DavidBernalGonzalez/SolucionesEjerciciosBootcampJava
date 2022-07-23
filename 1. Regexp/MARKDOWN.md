@@ -30,7 +30,7 @@
 👉 **Solución más compleja IV: ``[^\D]+``** → Los corchetes ``[]`` nos permiten definir rangos. En su interior, vamos a añadir ``\D`` para seleccionar todo lo que no sea un dígito.  
 >🚨``\D`` es equivalente a definir el rango ``0-9``. Por lo que podríamos utilizarlo para definir el rango ya que ambos son equivalentes🚨  
 
-Finalmente, antes del ``\D`` pero contenido entre los ``[]`` vamos a añadir un ``^`` para invertir el rango seleccionado. Por tanto, en este caso, estaremos seleccionando todos elementos que sean un digíto. Finalmente, añadimos un ``+`` después de los ``[]`` para poder seleccionar que el rango puede ser repetido una o más veces.
+Finalmente, antes del ``\D`` pero contenido entre los ``[]`` vamos a añadir un ``^`` para invertir el rango seleccionado. Por tanto, en este caso, estaremos seleccionando todos elementos que sean un dígito. Finalmente, añadimos un ``+`` después de los ``[]`` para poder seleccionar que el rango puede ser repetido una o más veces.
 
 ## 📚 **Exercise 2: Matching With Wildcards** 📚
 
