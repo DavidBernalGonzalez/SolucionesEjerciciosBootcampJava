@@ -4,7 +4,7 @@
 ## 📚 **Exercice 1: Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado1.png?raw=true  "Enunciado ejercicio 1")
 
-👉 **Solución simple/sencilla: ``abc ``** → Cuando queremos que el match sea explícitamente ``abc``  
+👉 **Solución simple/sencilla: ``abc``** → Cuando queremos que el match sea explícitamente ``abc``  
 
 👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que la línea empiece explícitamente por ``abc``. Posteriormente, utilizando el ``.`` (JOKER/comodín) el cual nos permitirá tener un carácter cualquiera, es decir, no importa el carácter que sea. Finalmente, seguidamente del ``.``, añadimos el cuantificador ``*`` para hacer que contenga 0 o más caracteres. 
 > 🚨Recordad que el símbolo que en este caso utilizamos como quantifier ``*`` es el conocido como la estrella de Kleene (que como ya dijimos durante el curso homenajea a uno de los padres de las expresiones regulares).🚨
@@ -17,23 +17,30 @@
 ## 📚 **Exercice 1.½ -  Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado%201.2.png?raw=true  "Enunciado ejercicio 1.½")
 
-👉 **Solución sencilla:	`` 123 ``** → Cuando queremos que el match realizado sea explícitamente ``123``  
+👉 **Solución sencilla:	``123``** → Cuando queremos que el match realizado sea explícitamente ``123``  
 
-👉 **Solución más compleja I: `` \d+``**	 → Cuando queremos que coja todos los dígitos independientemente de la cantidad  
+👉 **Solución más compleja I: ``\d+``**	 → Cuando queremos que el match sea con todos los dígitos e independientemente de la cantidad  
   
-👉 **Solución más compleja II: ``\d{3}	``** → Cuando queremos que coja solamente los grupos de 3 dígitos  
+👉 **Solución más compleja II: ``\d{3}``** → Cuando queremos que coja solamente los grupos de 3 dígitos  
 
-👉 **Solución más compleja III: ``\d{3,} ``** → Cuando queremos que coja solamente los grupos de 3 dígitos o más dígitos (equivalente a solución II)  
+👉 **Solución más compleja III: ``\d{3,}``** → Cuando queremos que coja solamente los grupos de 3 dígitos o más dígitos (equivalente a solución II)  
+
+👉 **Solución más compleja III: ``\d{3,}``** → Cuando queremos que coja solamente los grupos de 3 dígitos o más dígitos (equivalente a solución II) 
+
+👉 **Solución más compleja IV: ``[^\D]+``** → Los corchetes ``[]`` nos permiten definir rangos. En su interior, vamos a añadir ``\D`` para seleccionar todo lo que no sea un dígito.  
+>🚨``\D`` es equivalente a definir el rango ``0-9``. Por lo que podríamos utilizarlo para definir el rango ya que ambos son equivalentes🚨  
+
+Finalmente, antes del ``\D`` pero contenido entre los ``[]`` vamos a añadir un ``^`` para invertir el rango seleccionado. Por tanto, en este caso, estaremos seleccionando todos elementos que sean un digíto. Finalmente, añadimos un ``+`` después de los ``[]`` para poder seleccionar que el rango puede ser repetido una o más veces.
 
 ## 📚 **Exercise 2: Matching With Wildcards** 📚
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado2.png?raw=true "Enunciado 2")  
 
-👉 **Solución sencilla:** ``...\.``	→ Cuando queremos seleccionar tres caracteres (los que sean) utilizando el comodín/Joker y después queremos que haya un punto explicitamente .
+👉 **Solución sencilla:** ``...\.``	→ Cuando queremos hacer match sobre tres caracteres (los que sean) utilizando el comodín/joker tres veces ``..``. Y, posteriormente, queremos que haya un punto explícitamente ``.``
 
-👉 **Solución sencilla II:** ``.{3}\.``	→ Cuando queremos seleccionar tres caracteres (los que sean) utilizando el comodín/Joker junto al {3} y después queremos que haya un punto explicitamente .
+👉 **Solución sencilla II:** ``.{3}\.``	→ Cuando queremos seleccionar tres caracteres (los que sean) utilizando el comodín/joker ``.``. Y, posteriormente, añadimos un ``\.`` ya que en esta ocasiones no queremos utilizar el comodín/joker sino explícitamente un punto.
 
-👉 **Solución más compleja I:** ``(cat\.|896.|\?\=\+\.)`` → Cuando queremos que literalmente literalmente cat. 896. o ?=+. podemos hacerlo mediante a grupos
+👉 **Solución más compleja I:** ``(cat\.|896.|\?\=\+\.)`` → Cuando queremos que literalmente cat. 896. o ?=+. podemos hacerlo mediante a grupos
 
 👉 **Solución más completa II:** ``.*\.$`` → Cuando queremos que venga lo que sea (si es que hay algo) pero que acabe en un .
 
