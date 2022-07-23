@@ -5,6 +5,10 @@
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado1.png?raw=true  "Enunciado ejercicio 1")
 
 👉 **Solución simple/sencilla: ``abc``** → Cuando queremos que el match sea explícitamente ``abc``  
+<details>
+  <summary>Ver esquema</summary>
+  
+</details>
 
 👉 **Solución "más compleja" I: ``^abc.*``**  → Cuando queremos que la línea empiece explícitamente por ``abc``. Posteriormente, utilizando el ``.`` (JOKER/comodín) el cual nos permitirá tener un carácter cualquiera, es decir, no importa el carácter que sea. Finalmente, seguidamente del ``.``, añadimos el cuantificador ``*`` para hacer que contenga 0 o más caracteres. 
 > 🚨Recordad que el símbolo que en este caso utilizamos como quantifier ``*`` es el conocido como la estrella de Kleene (que como ya dijimos durante el curso homenajea a uno de los padres de las expresiones regulares).🚨
