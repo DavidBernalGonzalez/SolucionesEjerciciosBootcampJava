@@ -4,42 +4,42 @@
 ## 📚 **Exercice 1: Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado1.png?raw=true  "Enunciado ejercicio 1")
 
-👉 **Solución simple/sencilla: ``abc``**
+👉 **Solución simple/sencilla:** ``abc``
 
-👉 **Solución "más compleja" I: ``^abc.*``**
+👉 **Solución "más compleja" I:** ``^abc.*``
 
-👉 **Solución más compleja II: ``^abc.{0,}``**
+👉 **Solución más compleja II:** ``^abc.{0,}``
 
-👉 **Solución más compleja III: ``^abc(.?)+``**
+👉 **Solución más compleja III:** ``^abc(.?)+``
 
 ## 📚 **Exercice 1.½ -  Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado%201.2.png?raw=true  "Enunciado ejercicio 1.½")
 
-👉 **Solución sencilla:	``123``**
+👉 **Solución sencilla:**	``123``
 
-👉 **Solución más compleja I: ``\d+``**  
+👉 **Solución más compleja I:** ``\d+``  
   
-👉 **Solución más compleja II: ``\d{3}``**
+👉 **Solución más compleja II:** ``\d{3}``
 
-👉 **Solución más compleja III: ``\d{3,}``**
+👉 **Solución más compleja III:** ``\d{3,}``
 
-👉 **Solución más compleja III: ``\d{3,}``**
+👉 **Solución más compleja III:** ``\d{3,}``
 
-👉 **Solución más compleja IV: ``[^\D]+``**
+👉 **Solución más compleja IV:** ``[^\D]+``
 
 ## 📚 **Exercise 2: Matching With Wildcards** 📚
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado2.png?raw=true "Enunciado 2")  
 
-👉 **Solución sencilla: ``^...\.$``**
+👉 **Solución sencilla:** ``^...\.$``
 
-👉 **Solución sencilla II: ``^.{3}\.$``**
+👉 **Solución sencilla II:** ``^.{3}\.$``
 
-👉 **Solución más compleja I: ``^(cat|896|\?\=\+)\.$``**
+👉 **Solución más compleja I:** ``^(cat|896|\?\=\+)\.$``
 
-👉 **Solución más completa II: ``.*\.$``**
+👉 **Solución más completa II:** ``.*\.$``
 
-👉 **Solución más completa III: ``^(\w+|\W+)\.$``**
+👉 **Solución más completa III:** ``^(\w+|\W+)\.$``
 
 ## 📚 **Exercise 3: Matching Characters** 📚
 
