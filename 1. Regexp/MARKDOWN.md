@@ -76,3 +76,15 @@
 ## 📚 **Exercise 6: Matching Repeated Characters** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado6.png?raw=true "Enunciado 6") 
 
+👉 **Solución sencilla:** ``waz+up``	
+
+👉 **Solución más complejaI:** ``^wa(z{2,})up$``  
+
+👉 **Solución más compleja II:** ``waz{3,5}up``	 
+
+👉 **Solución más compleja III:** ``waz*up``  
+
+
+## 📚 **Exercise 7: Matching Repeated Characters** 📚
+
+
