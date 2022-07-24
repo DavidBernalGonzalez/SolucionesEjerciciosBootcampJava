@@ -145,6 +145,36 @@
 ## 📚 **Exercise 12: Matching Nested Groups** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado12.png?raw=true "Enunciado 12")  
 
+👉 **Solución sencilla:** ``(\w+\s(\d+))``	
+
+👉 **Solución más compleja I:** ``([JMA][au][nyg]\s(\d+))``		
+
+👉 **Solución más compleja II:** ``((Jan|May|Aug)\s(\d+))``  
+
+👉 **Solución más compleja IV:** ``([JAManayug]+\s(\d+))``  
+
+## 📚 **Exercise 13: Matching Nested Groups** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado13.png?raw=true "Enunciado 13")
+
+👉 **Solución sencilla:** ``(\d+)x(\d+)``  
+
+👉 **Solución más compleja I:** ``(\d*)x(\d*)``  
+
+👉 **Solución más compleja II:** ``(\d{4})x(\d{3,4})``	
+
+👉 **Solución más compleja IV:** ``^([0-9]+)x([0-9]+)$``  
+
+## 📚 **Exercise 14: Matching Conditional Text** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado14.png?raw=true "Enunciado 14")
+
+👉 **Solución sencilla:** ````  
+
+👉 **Solución más compleja I:** ````  
+
+👉 **Solución más compleja II:** ````	
+
+👉 **Solución más compleja IV:** ````
+
 
 
 
