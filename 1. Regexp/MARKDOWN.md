@@ -58,7 +58,7 @@
 
 👉 **Solución sencilla:** ``^[hd]og`` 
 
-👉 **Solución más complejaI:** ``[^b]og``  
+👉 **Solución más compleja I:** ``[^b]og``  
 
 👉 **Solución más compleja II:** ``^[^b]og$`` 
 
@@ -78,7 +78,7 @@
 
 👉 **Solución sencilla:** ``waz+up``	
 
-👉 **Solución más complejaI:** ``^wa(z{2,})up$``  
+👉 **Solución más compleja I:** ``^wa(z{2,})up$``  
 
 👉 **Solución más compleja II:** ``waz{3,5}up``	 
 
@@ -86,7 +86,7 @@
 
 
 ## 📚 **Exercise 7: Matching Repeated Characters** 📚
-![image](https://user-images.githubusercontent.com/32896437/180620613-e353fa30-f6bc-491a-bb04-21beee7d6622.png)
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado7.png?raw=true "Enunciado 8") 
 
 👉 **Solución sencilla:**	``a{2,}b{1,}c{1,}``  
 
@@ -99,7 +99,7 @@
 👉 **Solución más compleja IV:** ``(aa)+(b+)?c+``
 
 ## 📚 **Exercise 8: Matching Repeated Characters** 📚
-![image]([https://user-images.githubusercontent.com/32896437/180620613-e353fa30-f6bc-491a-bb04-21beee7d6622.png](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado8.png))  
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado8.png?raw=true "Enunciado 8")  
 
 👉 **Solución sencilla:** ``^\d+\sfiles?\sfound\?``  
 
@@ -108,6 +108,30 @@
 👉 **Solución más compleja II:** ``^\d+\s\w{4,5}\s\w{5}\?$``  
 
 👉 **Solución más compleja III:** ``^\d+\s[^\W]{4,5}\s[^\W]{5}\?$``  
+
+## 📚 **Exercise 9: Matching Whitespaces** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado9.png?raw=true "Enunciado 9")  
+
+👉 **Solución sencilla:** ``\d\.\s+abc``  
+
+👉 **Solución más complejaI:** ``\d\.\s{1,}abc``  
+
+👉 **Solución más compleja II:** ``^\d\.\s+abc$``  
+
+👉 **Solución más compleja III:** ``^\d\.\s+[a-c]{3}$``  
+
+## 📚 **Exercise 10: Matching Lines** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado10.png?raw=true "Enunciado 10")  
+
+👉 **Solución sencilla:** ``\d\.\s+abc``  
+
+👉 **Solución más complejaI:** ``\d\.\s{1,}abc``  
+
+👉 **Solución más compleja II:** ``^\d\.\s+abc$``  
+
+👉 **Solución más compleja III:** ``^\d\.\s+[a-c]{3}$`` 
+
+
 
 
 
