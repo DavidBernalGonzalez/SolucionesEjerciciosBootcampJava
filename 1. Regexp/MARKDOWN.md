@@ -227,6 +227,12 @@
 ## 📚 **Exercise 5: Capturing Filename Data** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio5.png?raw=true "Ejercicio5")
 
+👉 **Solución sencilla:** ``^(\w+)\.(jpg|png|gif)$``	
+
+👉 **Solución más compleja I:** ``^([a-z_0-9]+)\.(png|jpg|gif)$``
+
+## 📚 **Exercise 6: Matching Lines** 📚
+
 
 
 
