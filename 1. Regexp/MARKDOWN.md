@@ -176,7 +176,13 @@
 👉 **Solución más compleja IV:** ``^\w\s\w+\s(cats|dogs)``
 
 ## 📚 **Exercise 15: Matching Other Special Characters** 📚
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado15.png?raw=true "Enunciado 15")
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado15.png?raw=true "Enunciado 15")  
+
+👉 **Solución sencilla:** ``.*``	
+
+👉 **Solución más compleja I:** ``.+``	
+
+👉 **Solución más compleja II:** ``.{1,}``	
 
 
 
