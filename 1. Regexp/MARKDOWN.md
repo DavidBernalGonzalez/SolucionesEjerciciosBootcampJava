@@ -134,6 +134,16 @@
 ## 📚 **Exercise 11: Matching Groups** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado11.png?raw=true "Enunciado 11")  
 
+👉 **Solución sencilla:** ``(file_record_transcript|file_07241999)\.pdf``  
+
+👉 **Solución más complejaI:** ``^(file_\w+).pdf$``  
+
+👉 **Solución más compleja II:** ``^(f.*).pdf$``  
+
+👉 **Solución más compleja IV:** ``^(f.+).pdf$``
+
+
+
 
 
 
