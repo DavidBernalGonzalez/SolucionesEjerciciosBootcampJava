@@ -167,13 +167,16 @@
 ## 📚 **Exercise 14: Matching Conditional Text** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado14.png?raw=true "Enunciado 14")
 
-👉 **Solución sencilla:** ````  
+👉 **Solución sencilla:** ``^I\slove\s(cats|dogs)$``  
 
-👉 **Solución más compleja I:** ````  
+👉 **Solución más compleja I:** ``^I.*(ts|d..s)$``  
 
-👉 **Solución más compleja II:** ````	
+👉 **Solución más compleja II:** ``^I.*(ts|dogs)$``	
 
-👉 **Solución más compleja IV:** ````
+👉 **Solución más compleja IV:** ``^\w\s\w+\s(cats|dogs)``
+
+## 📚 **Exercise 15: Matching Other Special Characters** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado15.png?raw=true "Enunciado 15")
 
 
 
