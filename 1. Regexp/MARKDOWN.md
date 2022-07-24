@@ -173,7 +173,7 @@
 
 👉 **Solución más compleja II:** ``^I.*(ts|dogs)$``	
 
-👉 **Solución más compleja IV:** ``^\w\s\w+\s(cats|dogs)``
+👉 **Solución más compleja III:** ``^\w\s\w+\s(cats|dogs)``
 
 ## 📚 **Exercise 15: Matching Other Special Characters** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado15.png?raw=true "Enunciado 15")  
@@ -182,7 +182,31 @@
 
 👉 **Solución más compleja I:** ``.+``	
 
-👉 **Solución más compleja II:** ``.{1,}``	
+👉 **Solución más compleja II:** ``.{1,}``  
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Finished_1.png?raw=true "Finished_1") 
+
+## 📚 **Exercise 1: Matching Numbers** 📚
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio1.png?raw=true "Ejercicio1")  
+
+👉 **Solución sencilla:** ``^.*[\d]$``	
+
+👉 **Solución más compleja I:** ``[\d\,\.e-]+$``  
+
+👉 **Solución más compleja II:** ``^-?\d+(,\d+)*(\.\d+(e\d+)?)?$``  
+
+## 📚 **Exercise 2: Matching Phone Numbers** 📚  
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio2.png?raw=true "Ejercicio2")
+ 
+👉 **Solución sencilla:** ``(\d{3})``  
+
+👉 **Solución más compleja I:** ``([0-9]{3})``	
+
+👉 **Solución más compleja II:** ``([^\s\(\)]{3})``  
+
+
 
 
 
