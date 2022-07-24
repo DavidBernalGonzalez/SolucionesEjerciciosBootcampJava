@@ -136,11 +136,14 @@
 
 👉 **Solución sencilla:** ``(file_record_transcript|file_07241999)\.pdf``  
 
-👉 **Solución más complejaI:** ``^(file_\w+).pdf$``  
+👉 **Solución más complejaI:** ``^(file_\w+)\.pdf$``  
 
-👉 **Solución más compleja II:** ``^(f.*).pdf$``  
+👉 **Solución más compleja II:** ``^(f.*)\.pdf$``  
 
-👉 **Solución más compleja IV:** ``^(f.+).pdf$``
+👉 **Solución más compleja IV:** ``^(f.+)\.pdf$``  
+
+## 📚 **Exercise 12: Matching Nested Groups** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado12.png?raw=true "Enunciado 12")  
 
 
 
