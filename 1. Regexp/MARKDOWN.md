@@ -206,6 +206,8 @@
 
 👉 **Solución más compleja II:** ``([^\s\(\)]{3})``  
 
+👉 **Solución más compleja III:** ``^([^\s\(\)]{3})|(\d{3})``
+
 
 
 
