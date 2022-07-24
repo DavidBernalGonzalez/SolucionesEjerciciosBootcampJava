@@ -208,6 +208,26 @@
 
 👉 **Solución más compleja III:** ``^([^\s\(\)]{3})|(\d{3})``
 
+## 📚 **Exercise 3: Matching Emails** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio3.png?raw=true "Ejercicio3")
+
+👉 **Solución sencilla I:** ``^([\w\.]+)``	
+
+👉 **Solución sencilla II:** ``^([\w\.]*)``  
+
+👉 **Solución sencilla III:** ``^([a-z\.]+)`` 
+
+## 📚 **Exercise 4: Capturing HTML Tags** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio4.png?raw=true "Ejercicio4")
+
+👉 **Solución sencilla:** ``.(\w+)``  
+
+👉 **Solución más compleja I:** ``<(\w+)``  
+
+## 📚 **Exercise 5: Capturing Filename Data** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio5.png?raw=true "Ejercicio5")
+
+
 
 
 
