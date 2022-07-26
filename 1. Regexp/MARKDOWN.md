@@ -1,7 +1,7 @@
 # Soluciones de ejercicios de expresiones regulares (REGEXP)
 ## 📖Ejercicios de https://regexone.com/📖 
 
-# 🎓 **Parte I: ** 🎓
+# 🎓 Parte I: 🎓
 ## 📚 **Exercice 1: Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado1.png?raw=true  "Enunciado ejercicio 1")
 
@@ -187,7 +187,7 @@
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Finished_1.png?raw=true "Finished_1") 
 
-# 🎓 **Parte II: ** 🎓
+# 🎓 Parte II: 🎓
 ## 📚 **Exercise 1: Matching Numbers** 📚
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio1.png?raw=true "Ejercicio1")  
