@@ -239,7 +239,7 @@
 👉 **Solución más compleja I:** ``^\s*(.*)\s*$`` 
 
 ## 📚 **Exercise 7: Extracting Data From Log Entries** 📚
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio7.png?raw=true "Ejercicio6") 
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio7.png?raw=true "Ejercicio7") 
 
 
 
