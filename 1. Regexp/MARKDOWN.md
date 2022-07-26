@@ -1,6 +1,7 @@
 # Soluciones de ejercicios de expresiones regulares (REGEXP)
 ## 📖Ejercicios de https://regexone.com/📖 
 
+# 🎓 **Parte I: ** 🎓
 ## 📚 **Exercice 1: Matching Characters:** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Enunciado1.png?raw=true  "Enunciado ejercicio 1")
 
@@ -186,6 +187,7 @@
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Finished_1.png?raw=true "Finished_1") 
 
+# 🎓 **Parte II: ** 🎓
 ## 📚 **Exercise 1: Matching Numbers** 📚
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio1.png?raw=true "Ejercicio1")  
@@ -249,7 +251,7 @@
 
 👉 **Solución sencilla:** ``(\w+)://([\w\-\.]+)[://](\d+)?``			
 👉 **Solución más compleja I:** ``(\w+)://([\w\-\.]+)(:(\d+))?``	
-👉 **Solución más compleja II:** ``(\w+)://([\w+\-]+(.com)?)(:|/)(\d+)?``
+👉 **Solución más compleja II:** ``(\w+)://([\w+\-]+(.com)?)(:|/)(\d+)?``  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Finished_2.png?raw=true "Finished_2") 
 
