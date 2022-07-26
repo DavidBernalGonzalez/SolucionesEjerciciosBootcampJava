@@ -241,6 +241,18 @@
 ## 📚 **Exercise 7: Extracting Data From Log Entries** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio7.png?raw=true "Ejercicio7") 
 
+👉 **Solución sencilla:** ``(\w+)\(([\w\.]+):(\d+)\)$``					
+👉 **Solución más compleja I:** ``:\s+at\swidget\.List.(\w+)\((\w+\.\w+):(\d+)``
+
+## 📚 **Exercise 8: Extracting Data From URLs** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Ejercicio7.png?raw=true "Ejercicio8") 
+
+👉 **Solución sencilla:** ``(\w+)://([\w\-\.]+)[://](\d+)?``			
+👉 **Solución más compleja I:** ``(\w+)://([\w\-\.]+)(:(\d+))?``	
+👉 **Solución más compleja II:** ``(\w+)://([\w+\-]+(.com)?)(:|/)(\d+)?``
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexpone/Finish_2.png?raw=true "Finish_2") 
+
 
 
 
