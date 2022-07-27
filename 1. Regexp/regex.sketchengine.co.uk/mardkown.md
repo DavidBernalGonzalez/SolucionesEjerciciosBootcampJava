@@ -4,3 +4,5 @@
 # 🎓 Parte I: 🎓
 ## 📚 **Exercice 1** 📚
 ![Error, la imagen no se ha podido cargar](https://raw.githubusercontent.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/main/1.%20Regexp/regex.sketchengine.co.uk/Ejercicio1.png?raw=true  "Enunciado ejercicio 1")
+
+👉 **Solución:** ``^p.t$|^s.{2,}(t|e|o)$|^r.*``
