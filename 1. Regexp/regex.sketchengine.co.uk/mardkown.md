@@ -18,6 +18,9 @@
 
 ## 📚 **Exercice 3** 📚
 ![Error, la imagen no se ha podido cargar](https://raw.githubusercontent.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/main/1.%20Regexp/regex.sketchengine.co.uk/Ejercicio3.png?raw=true  "Enunciado ejercicio 3")
+👉 **Solución:** ``^((a)([f]{2,}.*(ng$))|b.*|r.*)``  
 
 ## 📚 **Exercice 4** 📚
 ![Error, la imagen no se ha podido cargar](https://raw.githubusercontent.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/main/1.%20Regexp/regex.sketchengine.co.uk/Ejercicio4.png?raw=true  "Enunciado ejercicio 4")
+
+👉 **Solución:** ``^((a.*)|((d|h|m).*)|(b.*).+[?].*|(^it).*)``  
