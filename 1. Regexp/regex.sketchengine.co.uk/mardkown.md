@@ -15,3 +15,9 @@
 👉 **Solución II:** ``((^(r).{2}\s\w+)|(^(t).p.{2}h$)|(^(a).*[^t|s]$)|(^(w|s).*y$)|(^\d).*)``  
 
 👉 **Solución III:** ``((^(\w{3})+\s\w+)|((\d|w).*)|((^(t).[^r]).*)|(^(a).*(y|th)))``	
+
+## 📚 **Exercice 3** 📚
+![Error, la imagen no se ha podido cargar](https://raw.githubusercontent.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/main/1.%20Regexp/regex.sketchengine.co.uk/Ejercicio3.png?raw=true  "Enunciado ejercicio 3")
+
+## 📚 **Exercice 4** 📚
+![Error, la imagen no se ha podido cargar](https://raw.githubusercontent.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/main/1.%20Regexp/regex.sketchengine.co.uk/Ejercicio4.png?raw=true  "Enunciado ejercicio 4")
