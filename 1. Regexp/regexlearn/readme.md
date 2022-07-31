@@ -49,20 +49,46 @@
 ## 📚 **16. Practice completed!** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice16.png?raw=true "Enunciado ejercicio 16")  
 
+## 📚 **17. Repetitions** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice17.png?raw=true "Enunciado ejercicio 17")  
 
-17. Repetitions 
-18. Repetitions: Asterisk						be*r
-19. Plus Sign +								be+r
-20. Question Mark ?							colou?r
-21. Curly Braces - 1							be{2}r
-22. Curly Braces - 2							be{3,}r
-23. Curly Braces - 3							be{1,3}r
-24. Practice
-25. Practice: Asterisk *						de*p
-26. Practice: Plus Sign +						de+p
-27. Practice: Question Mark ?						an?
-28. Practice: Curly Braces - 1					[0-9]{4}		\d{4}
-29. Practice: Curly Braces - 2					[0-9]{2,}		\d{2,}
+## 📚 **18. Repetitions: Asterisk** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice18.png?raw=true "Enunciado ejercicio 18")  
+
+## 📚 **19. Plus Sign +** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice19.png?raw=true "Enunciado ejercicio 19") 
+ 
+## 📚 **20. Question Mark ?** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice20.png?raw=true "Enunciado ejercicio 20")  
+
+## 📚 **21. Curly Braces - 1** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice21.png?raw=true "Enunciado ejercicio 21")  
+
+## 📚 **22. Curly Braces - 2** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice22.png?raw=true "Enunciado ejercicio 22")  
+
+
+## 📚 **23. Curly Braces - 3** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice23.png?raw=true "Enunciado ejercicio 23")   
+
+## 📚 **24. Practice** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice24.png?raw=true "Enunciado ejercicio 24")  
+
+## 📚 **25. Practice: Asterisk** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice25.png?raw=true "Enunciado ejercicio 25")  
+
+## 📚 **26. Practice: Plus Sign +** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice26.png?raw=true "Enunciado ejercicio 26")  
+
+## 📚 **27. Practice: Question Mark ?** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice27.png?raw=true "Enunciado ejercicio 27")  
+
+## 📚 **28. Practice: Curly Braces - 1** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice28.png?raw=true "Enunciado ejercicio 28")  
+
+## 📚 **29. Practice: Curly Braces - 2** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice29.png?raw=true "Enunciado ejercicio 29")  
+
 30. Practice: Curly Braces - 3					[0-9]{1,4}		\d{1,4}
 31. Practice completed!
 32. Parentheses ( ): Grouping						(haa)
