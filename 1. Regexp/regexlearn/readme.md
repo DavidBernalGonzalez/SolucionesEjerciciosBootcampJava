@@ -26,15 +26,30 @@
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice8.png?raw=true "Enunciado ejercicio 8") 
 
 ## 📚 **9. Practice** 📚
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice9.png?raw=true "Enunciado ejercicio 9") 
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice9.png?raw=true "Enunciado ejercicio 9")  
 
-10. Practice: Basic Matcher						of
-11. Practice: Any Character						.
-12. Practice: Character Sets						[bdf]eer
-13. Practice: Negated Character Sets				be[^ou]r
-14. Practice: Letter Range						[g-k]
-15. Practice: Number Range						[2-7]
-16. Practice completed!
+## 📚 **10. Practice: Basic Matcher** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice10.png?raw=true "Enunciado ejercicio 10")
+
+## 📚 **11. Practice: Any Character** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice11.png?raw=true "Enunciado ejercicio 11")  
+
+## 📚 **12. Practice: Character Sets** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice12.png?raw=true "Enunciado ejercicio 12")  
+
+## 📚 **13. Practice: Negated Character Sets** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice13.png?raw=true "Enunciado ejercicio 13")  
+
+## 📚 **14. Practice: Letter Range** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice14.png?raw=true "Enunciado ejercicio 14")  
+
+## 📚 **15. Practice: Number Range** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice15.png?raw=true "Enunciado ejercicio 15")  
+
+## 📚 **16. Practice completed!** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice16.png?raw=true "Enunciado ejercicio 16")  
+
+
 17. Repetitions 
 18. Repetitions: Asterisk						be*r
 19. Plus Sign +								be+r
