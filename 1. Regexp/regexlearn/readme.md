@@ -1,12 +1,33 @@
-1. Intro									OK
-2. What is Regular Expressions Regex?				^\w+\.pdf$
-3. Basic Matchers								curious
-4. Dot .: Any Character							.
-5. Character Sets [abc]			 				b[aeiou]r
-6. Negated Character Sets [^abc]					b[^eo]r
-7. Letter Range[a-z]							[e-o]
-8. Number Range[0-9]							[3-6]
-9. Practice
+# Soluciones de ejercicios de expresiones regulares (REGEXP)
+## 📖Ejercicios de https://regexlearn.com/learn/regex101📖 
+
+## 📚 **1. Intro** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice1.png?raw=true "Enunciado ejercicio 1")  
+
+## 📚 **2. What is Regular Expressions Regex?** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice2.png?raw=true "Enunciado ejercicio 2")  
+
+## 📚 **3. Basic Matchers** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice3.png?raw=true "Enunciado ejercicio 3")  
+
+## 📚 **4. Dot .: Any Character** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice4.png?raw=true "Enunciado ejercicio 4")  
+								
+## 📚 **5. Character Sets [abc]** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice5.png?raw=true "Enunciado ejercicio 5")  
+
+## 📚 **6. Negated Character Sets [^abc]** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice6.png?raw=true "Enunciado ejercicio 6")  
+
+## 📚 **7. Letter Range[a-z]** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice7.png?raw=true "Enunciado ejercicio 7")  
+
+## 📚 **8. Number Range[0-9]** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice8.png?raw=true "Enunciado ejercicio 8") 
+
+## 📚 **9. Practice** 📚
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice9.png?raw=true "Enunciado ejercicio 9") 
+
 10. Practice: Basic Matcher						of
 11. Practice: Any Character						.
 12. Practice: Character Sets						[bdf]eer
