@@ -108,7 +108,7 @@
 ## 📚 **35. Pipe Character |** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice35.png?raw=true "Enunciado ejercicio 35")  
 
-## 📚 **36. Escape Character \** 📚
+## 📚 **36. Escape Character \*** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice36.png?raw=true "Enunciado ejercicio 36")   
 
 ## 📚 **37. Caret Sign ^: Selecting by Line Start** 📚
@@ -124,53 +124,50 @@
 ## 📚 **40. Except Word Character \W** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice40.png?raw=true "Enunciado ejercicio 40")  
 
-## 📚 **41. Number Character \d	** 📚
+## 📚 **41. Number Character \d** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice41.png?raw=true "Enunciado ejercicio 41")  
 
-## 📚 **41. Number Character \d	** 📚
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice41.png?raw=true "Enunciado ejercicio 41")  
-
-## 📚 **42. Except Number Character \D ** 📚
+## 📚 **42. Except Number Character \D** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice42.png?raw=true "Enunciado ejercicio 42")  
 
-## 📚 **43. Space Character \s ** 📚
+## 📚 **43. Space Character \s** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice43.png?raw=true "Enunciado ejercicio 43")  
 
-## 📚 **44. Except Space Character \S ** 📚
+## 📚 **44. Except Space Character \S** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice44.png?raw=true "Enunciado ejercicio 44")  
 
-## 📚 **45. Lookarounds ** 📚
+## 📚 **45. Lookarounds** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice45.png?raw=true "Enunciado ejercicio 45")  
 
-## 📚 **46. Positive Lookahead: (?=) ** 📚
+## 📚 **46. Positive Lookahead: (?=)** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice46.png?raw=true "Enunciado ejercicio 46")  
 
-## 📚 **47. Negative Lookahead: (?!) ** 📚
+## 📚 **47. Negative Lookahead: (?!)** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice47.png?raw=true "Enunciado ejercicio 47")  
 
-## 📚 **48. Positive Lookbehind: (?<=) ** 📚
+## 📚 **48. Positive Lookbehind: (?<=)** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice48.png?raw=true "Enunciado ejercicio 48")  
 
-## 📚 **49. Negative Lookbehind: (?<!) ** 📚
+## 📚 **49. Negative Lookbehind: (?<!)** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice49.png?raw=true "Enunciado ejercicio 49")  
 
-## 📚 **50. Flags ** 📚
+## 📚 **50. Flags** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice50.png?raw=true "Enunciado ejercicio 50")  
 
-## 📚 **51. Global Flag	 ** 📚
+## 📚 **51. Global Flag** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice51.png?raw=true "Enunciado ejercicio 51")  
 
-## 📚 **52. Multiline Flag ** 📚
+## 📚 **52. Multiline Flag** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice52.png?raw=true "Enunciado ejercicio 52")  
 
-## 📚 **53. Case-insensitive Flag ** 📚
+## 📚 **53. Case-insensitive Flag** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice53.png?raw=true "Enunciado ejercicio 53")  
 
-## 📚 **54. Greedy Matching ** 📚
+## 📚 **54. Greedy Matching** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice54.png?raw=true "Enunciado ejercicio 54")  
 
-## 📚 **55. Lazy Matching ** 📚
+## 📚 **55. Lazy Matching** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice55.png?raw=true "Enunciado ejercicio 55")  
 
-## 📚 **56. Congratulations, you have completed all the steps!	 ** 📚
+## 📚 **56. Congratulations, you have completed all the steps!** 📚
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/Exercice56.png?raw=true "Enunciado ejercicio 56")  
