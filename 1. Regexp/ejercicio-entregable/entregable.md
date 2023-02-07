@@ -22,16 +22,20 @@ Basándote en el fichero original, haz que todos los elementos tengan un solo es
 Primeramente, seleccionamos las casuisticas que tengan dos o más espacios (aparecen con puntitos cuando los subrayamos) o bien una o varias tabulaciones (aparecen como una flecha cuando las subrayamos). Y los reemplazamos por un solo espacio poniendo un espacio en el campo de replace.  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2.png "Solución ejercicio 2")  
+
 Aquí vemos la explicación de la expresión regular:  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-2.png "Solución ejercicio 2")  
+
 Ahora, solamente tenemos el problema con los espacios del final  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-3.png "Solución ejercicio 2")  
+
 Nos bastará con realizar lo siguiente:  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-4.png "Solución ejercicio 2")  
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-6.png "Solución ejercicio 2")     
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-6.png "Solución ejercicio 2")    
+
 Y ahora si, que tenemos este apartado finalizado:  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-5.png "Solución ejercicio 2")  
@@ -51,11 +55,18 @@ Si nos metemos en la web de https://regex101.com/ al salir en distintos colores 
 Si nos fijamos, vemos que ha una parte que no capturamos en nuestro patrón dentro de un grupo, la que vamos a substituir. Por lo que solamente necesitamos realizar la llamada a los grupos que si que capturamos y meter la palabra gmail en medio:  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-3.png "Solución ejercicio 3")  
+
 El resultado será el siguiente:  
+
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-4.png "Solución ejercicio 3")  
 
 ## 📚 **Ejercicio 4:** 📚
 Elimina todo lo que no sea un email de cada una de las líneas:
+
+### **Solución ejercicio 4. Manera I:**  
+
+Vamos a arreglar la cosa a hachazos🪓, para ello, vamos a realizar unas pequeñas marcas en el documento, en este caso puntos comas con los que será más fácil cortar el contenido que no nos interesa de las líneas.
+
 
 
  
