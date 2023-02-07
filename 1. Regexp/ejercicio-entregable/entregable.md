@@ -30,8 +30,7 @@ Y ahora si, que tenemos este apartado finalizado:
 
 ## 📚 **Ejercicio 3:** 📚
 Basándote en el fichero original, sustituye todos los subdominios de los correos que acaben en cl o ch por gmail (incluidos los que ya tengan dicha casuística):
-	Subdominio:	Y acaban en
-@	Lo que sea	cl o ch
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Exercice03.png "Enunciado ejercicio 3")
 Por ejemplo:
  
 El resultado será el siguiente:
