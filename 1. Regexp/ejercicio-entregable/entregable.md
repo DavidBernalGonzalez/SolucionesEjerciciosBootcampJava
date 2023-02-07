@@ -16,7 +16,7 @@ Basándote en el fichero original, haz que todos los elementos tengan un solo es
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Exercice02.png "Enunciado ejercicio 2")
 
 **Solución ejercicio 2:**
-Primeramente, seleccionamos las casuisticas que tengan dos o más espacios.
+Primeramente, seleccionamos las casuisticas que tengan dos o más espacios. Y los reemplazamos por un solo espacio poniendo un espacio en el campo de replace.
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2.png "Solución ejercicio 2")
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-2.png "Solución ejercicio 2")  
 Si ahora volvemos a revisar los espacios, vemos que solamente tenemos uno en todas las posiciones.
