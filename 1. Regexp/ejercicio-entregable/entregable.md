@@ -37,6 +37,9 @@ El resultado será el siguiente:
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-3.png "Solución ejercicio 3")  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-4.png "Solución ejercicio 3")  
 
+## 📚 **Ejercicio 4:** 📚
+Elimina todo lo que no sea un email de cada una de las líneas:
+
 
  
 
