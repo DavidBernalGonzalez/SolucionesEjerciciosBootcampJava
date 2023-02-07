@@ -35,7 +35,9 @@ Basándote en el fichero original, sustituye todos los subdominios de los correo
 Si nos metemos en la web de https://regex101.com/ al salir en distintos colores los grupos, esto, puede ayudar a entender mejor el trabajo de grupo que queremos hacer:
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-1.png "Solución ejercicio 3")  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-2.png "Solución ejercicio 3")  
+Si nos fijamos, vemos que ha una parte que no capturamos en nuestro patrón dentro de un grupo, la que vamos a substituir. Por lo que solamente necesitamos realizar la llamada a los grupos que si que capturamos y meter la palabra gmail en medio:  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-3.png "Solución ejercicio 3")  
+El resultado será el siguiente:  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-4.png "Solución ejercicio 3")  
 
 ## 📚 **Ejercicio 4:** 📚
