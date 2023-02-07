@@ -30,8 +30,9 @@ Y ahora si, que tenemos este apartado finalizado:
 
 ## 📚 **Ejercicio 3:** 📚
 Basándote en el fichero original, sustituye todos los subdominios de los correos que acaben en cl o ch por gmail (incluidos los que ya tengan dicha casuística):
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Exercice03.png "Enunciado ejercicio 3")
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Exercice03.png "Enunciado ejercicio 3")  
 ### **Solución ejercicio 3:** 
+Si nos metemos en la web de https://regex101.com/ al salir en distintos colores los grupos, esto, puede ayudar a entender mejor el trabajo de grupo que queremos hacer:
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-1.png "Solución ejercicio 3")  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-2.png "Solución ejercicio 3")  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion3-3.png "Solución ejercicio 3")  
