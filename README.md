@@ -6,6 +6,8 @@
 
 👉[Ejercicios de regex.sketchengine.co.uk](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regex.sketchengine.co.uk/mardkown.md)  
 
-👉[Ejercicios de regexlearn](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/readme.md)  
+👉[Ejercicios de regexlearn](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/readme.md) 
+
+📖[Ejercicios entregables del documento de Word](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/regexlearn/readme.md) 
 
 
