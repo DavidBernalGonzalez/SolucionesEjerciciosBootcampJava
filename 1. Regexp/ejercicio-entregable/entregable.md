@@ -16,8 +16,14 @@ Basándote en el fichero original, haz que todos los elementos tengan un solo es
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Exercice02.png "Enunciado ejercicio 2")
 
 **Solución ejercicio 2:**  
-Primeramente, seleccionamos las casuisticas que tengan dos o más espacios. Y los reemplazamos por un solo espacio poniendo un espacio en el campo de replace.
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2.png "Solución ejercicio 2")
+Primeramente, seleccionamos las casuisticas que tengan dos o más espacios (aparecen con puntitos cuando los subrayamos) o bien una o varias tabulaciones (aparecen como una flecha cuando las subrayamos). Y los reemplazamos por un solo espacio poniendo un espacio en el campo de replace.
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2.png "Solución ejercicio 2")  
+Aquí vemos la explicación de la expresión regular:  
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-2.png "Solución ejercicio 2")  
-Si ahora volvemos a revisar los espacios, vemos que solamente tenemos uno en todas las posiciones.
+Ahora, solamente tenemos el problema con los espacios finales
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-3.png "Solución ejercicio 2")  
+Nos bastará con realizar lo siguiente:
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-4.png "Solución ejercicio 2")  
+Y ahora si, que tenemos este apartado finalizado:  
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-5.png "Solución ejercicio 2")
+
