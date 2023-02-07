@@ -25,5 +25,15 @@ Ahora, solamente tenemos el problema con los espacios finales
 Nos bastará con realizar lo siguiente:
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-4.png "Solución ejercicio 2")  
 Y ahora si, que tenemos este apartado finalizado:  
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-5.png "Solución ejercicio 2")
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion2-5.png "Solución ejercicio 2")  
+
+## 📚 **Ejercicio 3:** 📚
+Basándote en el fichero original, sustituye todos los subdominios de los correos que acaben en cl o ch por gmail (incluidos los que ya tengan dicha casuística):
+	Subdominio:	Y acaban en
+@	Lo que sea	cl o ch
+Por ejemplo:
+ 
+El resultado será el siguiente:
+ 
+
 
