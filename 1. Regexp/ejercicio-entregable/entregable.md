@@ -69,6 +69,11 @@ Vamos a arreglar la cosa a hachazos🪓, para ello, vamos a realizar unas peque�
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4.png "Solución ejercicio 4")  
 
-Una vez reemplazado, tenemos dos ; uno en cada lado de email para cortar el documento 
+Una vez reemplazado, tenemos dos ; uno en cada lado de email para cortar el documento.Por lo que aplicando la siguiente formula:
 
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4-2.png "Solución ejercicio 4")  
+
+Obtendremos el siguiente resultado:  
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4-3.png "Solución ejercicio 4") 
 
