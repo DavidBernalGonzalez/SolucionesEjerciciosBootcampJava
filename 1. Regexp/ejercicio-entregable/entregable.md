@@ -101,4 +101,8 @@ Modificamos la extensión del fichero de .txt a .csv e instalamos el plugin Rain
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-3.png "Solución ejercicio 5")
 
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-4.png "Solución ejercicio 5")
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-4.png "Solución ejercicio 5")  
+
+Si nos apoyamos del pluging y hacemos click sobre el botón de **CSVLint** podemos ver como hay líneas con distinta cantidad de ;
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-5.png "Solución ejercicio 5")
