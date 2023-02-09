@@ -69,7 +69,7 @@ Vamos a arreglar la cosa a hachazos🪓, para ello, vamos a realizar unas peque�
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4.png "Solución ejercicio 4")  
 
-Una vez reemplazado, tenemos dos ; uno en cada lado de email para cortar el documento.Por lo que aplicando la siguiente formula:
+Una vez reemplazado, tenemos dos ; uno en cada lado de email para cortar el documento. Por lo que aplicando la siguiente formula:
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4-2.png "Solución ejercicio 4")  
 
@@ -85,3 +85,6 @@ Obtendremos el siguiente resultado:
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4-3.png "Solución ejercicio 4")
 
+## 📚 **Ejercicio 5:** 📚
+La compañía nos comenta que necesitamos pasar el fichero a un formato CSV. Ya que quieren poder abrir el fichero desde Excel por lo que tendremos que transformar el fichero a un formato CSV. Para ello, nos han pedido que no tenga espacios y que los elementos
+estén separados por puntos y comas de una forma similar a la siguiente:
