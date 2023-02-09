@@ -67,8 +67,8 @@ Elimina todo lo que no sea un email de cada una de las líneas:
 
 Vamos a arreglar la cosa a hachazos🪓, para ello, vamos a realizar unas pequeñas marcas en el documento, en este caso puntos comas con los que será más fácil cortar el contenido que no nos interesa de las líneas.
 
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4.png "Solución ejercicio 4")  
 
-
- 
+Una vez reemplazado, tenemos dos ; uno en cada lado de email para cortar el documento 
 
 
