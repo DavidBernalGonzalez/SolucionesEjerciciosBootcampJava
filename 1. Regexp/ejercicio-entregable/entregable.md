@@ -63,7 +63,7 @@ El resultado será el siguiente:
 ## 📚 **Ejercicio 4:** 📚
 Elimina todo lo que no sea un email de cada una de las líneas:
 
-### **Solución ejercicio 4. Manera I:**  
+### **Solución ejercicio 4. Manera I (en 2 pasos):**  
 
 Vamos a arreglar la cosa a hachazos🪓, para ello, vamos a realizar unas pequeñas marcas en el documento, en este caso puntos comas con los que será más fácil cortar el contenido que no nos interesa de las líneas.
 
@@ -76,4 +76,10 @@ Una vez reemplazado, tenemos dos ; uno en cada lado de email para cortar el docu
 Obtendremos el siguiente resultado:  
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4-3.png "Solución ejercicio 4") 
+
+### **Solución ejercicio 4. Manera II (en 1 solo paso):**  
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4-B.png "Solución ejercicio 4")  
+
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion4-3.png "Solución ejercicio 4")
 
