@@ -91,6 +91,6 @@ estén separados por puntos y comas.
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5.png "Solución ejercicio 5")  
 
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-2.png "Solución ejercicio 5")  
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-1.png "Solución ejercicio 5")  
 
-![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-3.png "Solución ejercicio 5")
+![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-2.png "Solución ejercicio 5")
