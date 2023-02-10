@@ -115,6 +115,6 @@ Y, finalmente, ya tenemos las comas igualadas:
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-8.png "Solución ejercicio 5")  
 
-A excepción de los nombres compuestos:  
+A excepción de los nombres compuestos que tendremos que ir mirando desde el plugin e ir eliminando los puntos y comas de forma manual:
 
 ![Error, la imagen no se ha podido cargar](https://github.com/DavidBernalGonzalez/SolucionesEjerciciosBootcampJava/blob/main/1.%20Regexp/ejercicio-entregable/Solucion5-9.png "Solución ejercicio 5") 
